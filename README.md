@@ -22,7 +22,7 @@
 <!--
 **habibsoftdev/habibsoftdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I'm on a journey of coding adventures, with 5 years of hands-on experience under my belt. My toolkit includes PHP, WordPress, JavaScript, and jQuery. I thrive in the WordPress ecosystem, where I've crafted everything from intricate plugins to bespoke themes. I specialize in Elementor Addons development, adding that extra flair to websites.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
