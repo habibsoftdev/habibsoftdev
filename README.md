@@ -19,7 +19,7 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 
- I'm on a journey of coding adventures, with 5 years of hands-on experience under my belt. My toolkit includes PHP, MySQL, Bootstrap, Tailwind CSS, WordPress, JavaScript, jQuery and Laravel, I thrive in the WordPress ecosystem, where I've crafted everything from intricate plugins to bespoke themes. I specialize in Elementor Addons development, adding that extra flair to websites.
+ I'm on a journey of coding adventures, with 5 years of hands-on experience under my belt. My toolkit includes PHP, MySQL, Bootstrap, Tailwind CSS, WordPress, JavaScript, jQuery and Laravel, I thrive in the WordPress ecosystem, where I've crafted everything from intricate plugins to bespoke themes. I specialize in Elementor Addons development, adding that extra flair to websites. **I'm open to work and employment opportunities**.
  
 
  In my coding endeavors, I dance with Tailwind CSS, ensuring that my creations not only function flawlessly but also look sleek and responsive. I believe in the art of coding, turning ideas into digital realities.
@@ -29,7 +29,9 @@ Currently, I'm weaving my coding magic as a freelance developer on platforms lik
 
 Let's connect and explore how I can contribute to your next project! 💼🚀
 
+### Where to find me
 
-<!--
-**habibsoftdev/habibsoftdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib2255/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/habibrneloy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/habibr.neloy/)
 
